@@ -1,8 +1,6 @@
 #include <QApplication>
 #include <QPushButton>
 #include <QPushButton>
-#include <QPushButton>
-#include <QPushButton>
  
 int main(int argc, char *argv[ ]) 
 {
@@ -14,3 +12,8 @@ button.show( );
  
 return app.exec( );
 }
+
+
+x = (a - a % c) / c;
+y = (b - b % c) / c;
+Console.WriteLine("В прямоугольнике помещается: {0} квадратов", x*y);
